@@ -1,4 +1,5 @@
-class Solution {
+package JUN.programmers;
+public class sort2 {
     static boolean ver;
     static int test[];
     public String solution(int[] numbers) {
